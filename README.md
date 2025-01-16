@@ -1,1 +1,1 @@
-création d'une nouvelle bibliothèque en langage C
+création d'une nouvelle bibliothèque librairie réutilisables en langage C
